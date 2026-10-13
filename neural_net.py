@@ -91,6 +91,7 @@ class NeuralNet:
         classes = np.unique(y_train)
 
         combinations = itertools.product(
+            
             activations,
             learning_rate,
             max_iterations,

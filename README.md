@@ -13,8 +13,6 @@ https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv
 
 This alternate host avoids the SSL certificate error encountered when accessing the original UCI download endpoint.
 
-The dataset itself is not included in this repository.
-
 ## Requirements
 
 Python 3.10+ recommended.
@@ -157,6 +155,3 @@ The following functionality was added:
 - All models use the same training/testing split.
 - A fixed random seed is used for reproducibility.
 
-## Student Information
-
-Add your name and NetID here and to the cover page of your complete submission.
